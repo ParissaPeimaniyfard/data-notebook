@@ -1,4 +1,5 @@
 # pylint: disable=missing-docstring
 
 def hello_world():
-    pass  # YOUR CODE HERE
+    sent="Hello from hello.py"
+    return sent
